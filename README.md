@@ -1,6 +1,6 @@
 # cr-test-imogen
 
-The test is to create a small web based app that uses a Django or a Django Rest Framework API and a Javascript Framework. Regularly commit to the repo and write tests.
+The test is to create a small web based app in Django or uses Django Rest Framework API and a Javascript Framework. Regularly commit to the repo and write tests.
 
 ## Requirements - Tea making selection
 
