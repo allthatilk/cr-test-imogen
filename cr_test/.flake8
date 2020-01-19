@@ -1,0 +1,4 @@
+[flake8]
+max-line-length = 101
+exclude = */migrations/*, .eggs, */node_modules/*, .tox
+ignore = F405, W503

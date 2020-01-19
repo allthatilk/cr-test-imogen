@@ -5,7 +5,8 @@ verify_ssl = true
 
 [dev-packages]
 pytest = "==5.3.3"
-model-mommy = "*"
+model-mommy = "==2.0.0"
+pre-commit = "==1.21.0"
 
 [packages]
 django = "==3.0.2"
